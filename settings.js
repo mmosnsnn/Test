@@ -10,8 +10,8 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['233596371001'] //ur owner number
-global.ownernomer = "233206450709" //ur owner number2
+global.owner = ['919633687665'] //ur owner number
+global.ownernomer = "919633687665" //ur owner number2
 global.ownername = "Cyran Kyle" //ur owner name
 global.ytname = "null" //ur yt chanel name
 global.socialm = "GitHub: jake-net-hunter" //ur github or insta name
@@ -19,9 +19,9 @@ global.location = "Ghana" //ur location
 
 //new
 global.botname = "Meta Bot MD V2"
-global.ownernumber = '233596371001'
+global.ownernumber = '919633687665'
 global.ownername = 'Cyran Kyle'
-global.ownerNumber = ["233596371001@s.whatsapp.net"]
+global.ownerNumber = ["919633687665@s.whatsapp.net"]
 global.ownerweb = "https://cyran-kyle-web.netlify.app"
 global.websitex = "https://ycyrankyle.com"
 global.wagc = "https://chat.whatsapp.com/GeCtfVpcng8BBrcRDgvY8j"
@@ -30,7 +30,7 @@ global.wm = "Meta Bot inc."
 global.botscript = 'https://github.com/jake-net-hunter/xb' //script link
 global.packname = "Sticker By Meta Bot MD"
 global.author = "Meta Bot MD V2\n\n\nA whatsapp bot developed by\n Cyran Kyle\n\n--______--\n\nContact No. : +233596371001"
-global.creator = "233596371001@s.whatsapp.net"
+global.creator = "919633687665@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.hituet = 0
 
